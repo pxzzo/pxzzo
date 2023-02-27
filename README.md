@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey, so you found me!
 
-<!--
-**pxzzo/pxzzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on learning regexp
+- 🌱 Currently learning Javascript
+- 📫 Join [Void Bots](https://voidbots.net/join) and have some talk and maybe submit a few bots...
+- ⚡ Fact: My first ever language to learn was c#!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My stats
+
+![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pxzzo&theme=tokyonight&layout=compact)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=pxzzo&count_private=true&show_icons=true&theme=tokyonight)
+
+## Things i know
+- Javascript
+- Node.js
+- HTML
