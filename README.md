@@ -1,9 +1,8 @@
 # Hey, so you found me!
 
-- 🔭 Currently working on learning regexp
+- 🔭 Currently coding [Raze]("https://top.gg/bot/1017556497540071434")
 - 🌱 Currently learning Javascript
-- 📫 Join [Void Bots](https://voidbots.net/join) and have some talk and maybe submit a few bots...
-- ⚡ Fact: My first ever language to learn was c#!
+- 📫 Join [Raze' Discord Server](discord.gg/wzzaWxfxmu) and have some talk...
 
 
 
